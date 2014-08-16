@@ -9,7 +9,7 @@ script: grunt
 
 deploy:
   provider: releases
-  api-key: "GITHUB OAUTH TOKEN"
+  api-key: "Bmb+G7dwApunBRI4rmVtLq1z2oPlN6QwUBblUsoxpIVrEGEWXH3yekFW1lyZp1CTUQEFr1d8sNTr4GzBpXt0WOowNQmZbLgJNm2ztGzQfzFs4vqg+PslSxx+RmoGycLRnriTuCmIp65PPJOqQWK5C9WOR/pKIMdkLp4Ghwy76bw="
   file: "package/Hex-Clock.zip"
   skip_cleanup: true
   on:
