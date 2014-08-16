@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "0.10"
+
+script: grunt
+
+deploy:
+  provider: releases
+  api-key: "GITHUB OAUTH TOKEN"
+  file: "package/Hex-Clock.zip"
+  skip_cleanup: true
+  on:
+    tags: true
+    all_branches: false
