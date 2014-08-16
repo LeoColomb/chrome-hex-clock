@@ -9,7 +9,7 @@ script: grunt
 
 deploy:
   provider: releases
-  api-key: "Bmb+G7dwApunBRI4rmVtLq1z2oPlN6QwUBblUsoxpIVrEGEWXH3yekFW1lyZp1CTUQEFr1d8sNTr4GzBpXt0WOowNQmZbLgJNm2ztGzQfzFs4vqg+PslSxx+RmoGycLRnriTuCmIp65PPJOqQWK5C9WOR/pKIMdkLp4Ghwy76bw="
+  api-key: "NtnyLotYQlma7LoE/veolFMdbdfT6R1jnBLJFhrJELTWq0GLCqrakWfwtP3UTyBLHdDkCqFtboG5Zr0RyJ4o5vTHiVeJn2bifxZyYIablUIWIQO8g8MYklz96vmRAru68YhfXp8nQ0xjZjngs5Y0KoiPdt4Jj6oCeO2jpPFtiRk="
   file: "package/Hex-Clock.zip"
   skip_cleanup: true
   on:
